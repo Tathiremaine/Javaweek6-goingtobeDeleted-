@@ -3,12 +3,15 @@ package week6CodeFinalAssignment;
 public class Player 
 //c. Player
 		//i. Fields
+//1. hand (List of Card)
 Cards[] playerHand = need Cards();
 
+//2. score (set to 0 in the constructor)
+int score = 0;
 
-	          //1. hand (List of Card)
-	          //2. score (set to 0 in the constructor)
-	          //3. name
+//3. name
+
+name
 //ii.    Methods
 
 //1. describe (prints out information about the player and 
