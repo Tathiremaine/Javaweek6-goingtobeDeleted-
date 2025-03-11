@@ -28,6 +28,12 @@ public void flip()
      //I'm not sure how UK doing this one yet
 }
 //3. draw (takes a Deck as an argument and calls the draw 
+
+public void draw()
+{
+     
+}
+
 //method on the deck, adding the returned Card to the hand field)
 //4. incrementScore (adds 1 to the Player’s score field)
 {
