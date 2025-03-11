@@ -16,6 +16,12 @@ String name = name;
 
 //1. describe (prints out information about the player and 
 //calls the describe method for each card in the Hand List)
+
+public void describe()
+{
+     System.out.println(playerHand);
+}
+
 //2. flip (removes and returns the top card of the Hand)
 //3. draw (takes a Deck as an argument and calls the draw 
 //method on the deck, adding the returned Card to the hand field)
