@@ -4,7 +4,7 @@ public class Player
 //c. Player
 		//i. Fields
 //1. hand (List of Card)
-Cards[] playerHand = need Cards();
+Cards[] playerHand = new Cards();
 
 //2. score (set to 0 in the constructor)
 int score = 0;
