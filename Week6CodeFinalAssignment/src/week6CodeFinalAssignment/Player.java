@@ -10,8 +10,8 @@ Cards[] playerHand = need Cards();
 int score = 0;
 
 //3. name
-
-name
+String name = name;
+1
 //ii.    Methods
 
 //1. describe (prints out information about the player and 
