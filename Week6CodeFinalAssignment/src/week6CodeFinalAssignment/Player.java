@@ -3,10 +3,9 @@ package week6CodeFinalAssignment;
 public class Player 
 //c. Player
 		//i. Fields
-public void String playerHand()
-{
-     Cards[] hand = need Cards();
-}
+Cards[] playerHand = need Cards();
+
+
 	          //1. hand (List of Card)
 	          //2. score (set to 0 in the constructor)
 	          //3. name
